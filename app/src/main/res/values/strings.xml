@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">FirebaseAuthorisationTemplate</string>
+  <string name="facebook_application_id" translatable="false">321886331800649</string>
+  <string name="fb_login_protocol_scheme">fb321886331800649</string>
+
+
+</resources>
